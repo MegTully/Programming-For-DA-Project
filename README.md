@@ -1,4 +1,5 @@
 # Programming-For-DA-Project
+by Megan Tully
 
 This repository contains four files, a .gitignore file to stop unnecessary files being uploaded, the main file which is a jupyter notebook called Programming_For_DA_Project, a csv file that contains the dataset downloaded and used in the main file called games_sales_data and lastly this README file with some information on the repository.
 
@@ -26,3 +27,6 @@ You can also use [Visual Studio](https://code.visualstudio.com/download) code to
 5. [fitter](https://fitter.readthedocs.io/en/latest/)
 6. [scipy](https://docs.scipy.org/doc/scipy/tutorial/index.html)
 
+## Project Summary
+
+I decided to base this project on video games so I used a dataset with information on video game sales, user scores and critic scores throughout the years. I analysed the dataset by looking at all the statistics and the relationships between the variables which gave a great insight into how video games have progressed throughout the years. I then researched and tried to implement a few methods to sythesise a new dataset using the dataset I already had. The method I went with in the end was using numpy and scipy libraries to generate random numbers for each column using according to the distribution that was observed for their corresponding columns in the original dataset found online. I created a new dataframe with all the synthesised columns as a new dataset.   
