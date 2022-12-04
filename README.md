@@ -1,7 +1,7 @@
 # Programming-For-DA-Project
 by Megan Tully
 
-This repository contains five files, a .gitignore file to stop unnecessary files being uploaded, a folder called pictures which contains all the images used in the project, the main file which is a jupyter notebook called Programming_For_DA_Project, a csv file that contains the dataset downloaded and used in the main file called games_sales_data and lastly this README file with some information on the repository.
+This repository contains five files, a .gitignore file to stop unnecessary files being uploaded, a folder called pictures which contains the image used in the project, the main file which is a jupyter notebook called Programming_For_DA_Project, a csv file that contains the dataset downloaded and used in the main file called games_sales_data and lastly this README file with some information on the repository.
 
 This repository was created for my project in Programming For Data Analysis. The aim of the project was to choose a  real-world phenomenon and find some data based on this phenomenon, investigate the data and then synthesise your own new dataset using the data you collected. With the key focus being researching and synthesising your data.
 
